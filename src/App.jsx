@@ -804,7 +804,7 @@ export default function App() {
           <p className={`text-[11px] text-center leading-relaxed ${theme.textMuted}`}>
             Designed &amp; Developed by{' '}
             <a
-              href="https://jamalaliyev.dev"
+              href="https://portfolio-new-eta-jet.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-indigo-500 hover:underline font-medium"
@@ -888,7 +888,7 @@ export default function App() {
                 </div>
                 <p className={`text-[11px] text-center ${theme.textMuted}`}>
                   Designed &amp; Developed by{' '}
-                  <a href="https://jamalaliyev.dev" target="_blank" rel="noopener noreferrer" className="text-indigo-500 underline font-medium">
+                  <a href="https://portfolio-new-eta-jet.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-indigo-500 underline font-medium">
                     Jamal Aliyev
                   </a>
                 </p>
@@ -1193,7 +1193,7 @@ export default function App() {
           <span>{workspaceName} &bull; Real-time LocalStorage Sync Active</span>
           <span>
             Designed &amp; Developed by{' '}
-            <a href="https://jamalaliyev.dev" target="_blank" rel="noopener noreferrer" className="text-indigo-500 hover:underline font-medium">
+            <a href="https://portfolio-new-eta-jet.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-indigo-500 hover:underline font-medium">
               Jamal Aliyev
             </a>
           </span>
@@ -1394,7 +1394,7 @@ function LandingPageView({ themeMode, setThemeMode, onLaunchApp, tasksCount, pro
 
       <footer className={`px-4 sm:px-8 py-5 border-t ${theme.border} text-center text-xs ${theme.textMuted}`}>
         Designed &amp; Developed by{' '}
-        <a href="https://jamalaliyev.dev" target="_blank" rel="noopener noreferrer" className="text-indigo-500 hover:underline font-medium">
+        <a href="https://portfolio-new-eta-jet.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-indigo-500 hover:underline font-medium">
           Jamal Aliyev
         </a>
       </footer>
